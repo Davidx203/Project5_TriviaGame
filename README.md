@@ -4,7 +4,7 @@
 
 Submitted by: **David Perez**
 
-**Trivia Game App** is an app that ... [TODO] 
+**Trivia Game App** is an app that users can play a trivia game with different settings. 
 
 Time spent: **18** hours spent in total
 
